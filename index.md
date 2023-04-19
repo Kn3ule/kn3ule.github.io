@@ -4,26 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[WI_HSAA Chatbot](/pdf/Bachelorarbeit_Tim_Konle.pdf)
+<p>Im Zuge meiner Bachelorarbeit habe ich einen Chatbot entwickelt, der die Studierenden des Studiengangs Wirtschaftsinformatik an der Hochschule Aalen bei der Informationsbeschaffung rund um das Studium unterstützt.</p>
+<img src="images/WIHSAA_BOT.png?raw=true"/>
+<img src="images/WIHSAA_BOT2.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<p><a href="https://github.com/Kn3ule/WI_HSAA_Bot">View Code on Github</a></p>
 
 ---
 
