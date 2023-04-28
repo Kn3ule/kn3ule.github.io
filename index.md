@@ -6,10 +6,10 @@
 
 [WI_HSAA Chatbot](/pdf/Bachelorarbeit_Tim_Konle.pdf)
 <p>Im Zuge meiner Bachelorarbeit habe ich einen Chatbot entwickelt, der die Studierenden des Studiengangs Wirtschaftsinformatik an der Hochschule Aalen bei der Informationsbeschaffung rund um das Studium unterstützt.</p>
-<p>Tech-Stack:</p>
-<ul>Python</ul>
-<ul>ML mit Scikit-Learn</ul>
-<ul>PostgreSQL</ul>
+<h3>Tech-Stack:</p>
+<p>- Python</p>
+<p>- ML mit Scikit-Learn</p>
+<p>- PostgreSQL</p>
 <img src="images/WIHSAA_BOT.png?raw=true"/>
 <img src="images/WIHSAA_BOT2.png?raw=true"/>
 
