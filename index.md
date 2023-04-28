@@ -6,7 +6,7 @@
 
 [WI_HSAA Chatbot](/pdf/Bachelorarbeit_Tim_Konle.pdf)
 <p>Im Zuge meiner Bachelorarbeit habe ich einen Chatbot entwickelt, der die Studierenden des Studiengangs Wirtschaftsinformatik an der Hochschule Aalen bei der Informationsbeschaffung rund um das Studium unterstützt.</p>
-<h5>Tech-Stack:</h5>
+<h4>Tech-Stack:</h4>
 <p>- Python</p>
 <p>- ML mit Scikit-Learn</p>
 <p>- PostgreSQL</p>
@@ -18,11 +18,11 @@
 ---
 [Insite Forum]()
 <p>Während des Projektseminars Programmieren an der Hochschule Aalen habe ich mit meinem Team ein Mitarbeiterforum für eine fiktionale Firma entwickelt.</p>
-<p>Tech-Stack:</p>
-<ul>Python(Django)</ul>
-<ul>HTML & CSS</ul>
-<ul>Bootstrap</ul>
-<ul>PostgreSQL</ul>
+<h4>Tech-Stack:</h4>
+<p>- Python(Django)</p>
+<p>- HTML & CSS</p>
+<p>- Bootstrap</p>
+<p>- PostgreSQL</p>
 <img src="images/Insite_Start.png?raw=true"/>
 <img src="images/Insite_Home.png?raw=true"/>
 <img src="images/Insite_Menu.png?raw=true"/>
