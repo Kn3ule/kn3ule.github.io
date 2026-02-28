@@ -62,6 +62,7 @@ export const projects = [
     techStack: ["Python", "OpenAI GPT-4o-mini", "Streamlit", "XLM-Roberta", "VADER", "Docker"],
     images: ["/images/SAFS_upload_json.png", "/images/SAFS_upload_csv.png", "/images/SAFS_visualize_data.png"],
     github: "https://github.com/Kn3ule/sentiment-analysis-football-scouting",
+    pdf: "/pdf/Masterthesis_Tim_Konle.pdf",
     category: "AI/ML",
   },
   {
